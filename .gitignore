@@ -1,8 +1,7 @@
 target/
-
 crashes/
 corpus/
-
 Cargo.lock
-
 log
+examples/*/build/
+examples/*/Move.lock
